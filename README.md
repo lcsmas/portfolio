@@ -45,5 +45,5 @@ An application done in 3rd year at Polytech, to learn EmberJS and NodeJS.
 
 ```
 Front : EmberJS (https://github.com/qkjlu/festival-js)
-Back : https://github.com/qkjlu/festival-js-api
+Back : Node / Express https://github.com/qkjlu/festival-js-api
 ```
