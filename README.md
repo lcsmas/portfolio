@@ -1,3 +1,10 @@
+## WiiLabyrinthe
+
+A 3rd year project, we made a wood Labyrinthe with a Raspberry and servomotor which is controlable with a Nunchuck.
+> The WiiLabyrinth is a game, the principle of which is to move the maze using a Nunchuck, connected to a Wiimote, to drop a ball > in the centre of the maze. The game is timed, and to win, you have to go to the centre of the maze in less than 25 seconds.
+
+Code : https://github.com/qkjlu/WiiLabyrinthe
+
 # Teads ML Project
 https://github.com/qkjlu/ml_teads
 This is a machine learning project for educational purpose proposed by Yassine IDRISSI RHALBI from [Teads](https://www.teads.com/) at Polytech Montpellier.
