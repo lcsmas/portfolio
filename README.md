@@ -5,11 +5,11 @@ A 3rd year project, we made a wood Labyrinthe with a Raspberry and servomotor wh
 
 Code : https://github.com/qkjlu/WiiLabyrinthe
 
-# Teads ML Project
+## Teads ML Project
 https://github.com/qkjlu/ml_teads
 This is a machine learning project for educational purpose proposed by Yassine IDRISSI RHALBI from [Teads](https://www.teads.com/) at Polytech Montpellier.
 
-# SMTP Project
+## SMTP Project
 On Google Play Store.
 This is a mobile application permitting to geo-localize a truck float in real time and compute time-distance metrics to optimize driver route and scheduling
 
@@ -20,7 +20,7 @@ Back : NodeJS (https://github.com/qkjlu/smtp-pi-server)
 API usage documentation : https://github.com/qkjlu/smtp-api-doc
 ```
 
-# IWA IG5
+## IWA IG5
 A clone of StopCovid. Not in prod.
 
 ```
@@ -30,7 +30,7 @@ BD : PostgreSQL
 Authentification : Keycloak
 ```
 
-# MoTee
+## MoTee
 This API is for a mobile and web application in order to list sexist comments and the answers to deal with them.
 it is available at the following address: https://mootee-api.herokuapp.com
 
@@ -40,7 +40,7 @@ iOS client Front : https://github.com/AmjadIG/AWIOS
 Back : NodeJS (https://github.com/michelranari/AWIOS_API)
 ```
 
-# FestivalJS
+## FestivalJS
 An application done in 3rd year at Polytech, to learn EmberJS and NodeJS.
 
 ```
