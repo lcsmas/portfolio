@@ -20,8 +20,8 @@ Back : NodeJS (https://github.com/qkjlu/smtp-pi-server)
 API usage documentation : https://github.com/qkjlu/smtp-api-doc
 ```
 
-## IWA IG5
-A clone of StopCovid. Not in prod.
+## StopCovid clone
+Not in prod.
 
 ```
 Front-end : React (https://github.com/AmjadIG/iwa-front)
